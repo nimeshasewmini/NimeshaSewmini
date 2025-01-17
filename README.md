@@ -1,8 +1,8 @@
 <div align="center">
   
   # Hi 👋, I'm Nimesha Sewmini
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshasewmini&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshasewmini" /> </p>
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
