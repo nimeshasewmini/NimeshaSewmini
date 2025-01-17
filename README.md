@@ -32,36 +32,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical)](https://github.com/yourusername/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical)](https://github.com/yourusername/repo2)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7)
-
-</div>
-
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  
-  ### Show some ❤️ by starring some repositories!
 </div>
