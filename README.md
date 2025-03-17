@@ -1,41 +1,69 @@
-<div align="center">
+
+
+
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi 👋, I'm Nimesha Sewmini</h1>
+<h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nimeshasewmini&label=Profile%20views&color=0e75b6&style=flat" alt="udara-profile-count" /> </p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
   
-  # Hi 👋, I'm Nimesha Sewmini
+- 🔭 I’m currently working on <a href="/">My portfolio site</a>
+- 🌱 I’m currently learning <strong> React, HTML, CSS, and JavaScript</strong>
+- 📝 I am an undergraduate at University Of Vavuniya
+- 💬 Ask me about <strong>web development</strong>
+- 📫 How to reach me <strong>armnimeshasewmini@gmail.com</strong>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimeshasewmini&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshasewmini" /> </p>
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0bHcwNGhrczYxOTZxZTg4cTZpN2dkMDN3ZHY4cmNlbnp0c2x0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif">
   
-  <p align= "center"> <img width="500px"  height="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0bHcwNGhrczYxOTZxZTg4cTZpN2dkMDN3ZHY4cmNlbnp0c2x0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" />
+  </td>
+
+</tr>
+</table>
+
+<hr>
+
+<h2 align="center">My status</h2>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+ 
   
+  <h2 align="center">Connect with me</h2>
+<p align="center">
+<a href="http://www.linkedin.com/in/nimesha-sewmini-983706285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-sandaruwan-ug0002/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nima_n_sewmini?igsh=dGl3aWFkYzh3bXAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/udara_sandaruwan._?igsh=m3i2n2dwewl4cxhm" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/169RuT74Qf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/udara.sadaruvan.16?mibextid=zbwkwl" height="30" width="40" /></a>
+</p>
 
+<hr>
+<h2 align="center">Languages and Tools</h2>
+<p align="center"> 
 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+
+</p>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshasewmini&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  ### A passionate Fullstack developer from SriLanka 
-  
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@armnimeshasewmini)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimesha-sewmini-983706285/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100044182715738)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nima_n_sewmini/)
-</div>
-
-## 💫 About Me
-🌱 I'm currently learning MERN Stack Development<br>
-📝 I regularly write articles on [(https://medium.com/@armnimeshasewmini)]<br>
-📫 How to reach me: [(armnimeshasewmini@gmail.com)]<br>
-💼 Open to collaboration on interesting projects<br>
-
-## 🔧 Languages and Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-</div>
+  </td>
+</tr>
+</table>
