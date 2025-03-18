@@ -1,6 +1,3 @@
-
-
-
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Nimesha Sewmini</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
