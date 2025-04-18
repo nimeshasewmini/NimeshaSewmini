@@ -36,9 +36,9 @@
   
   <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="http://www.linkedin.com/in/nimesha-sewmini-983706285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-sandaruwan-ug0002/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nima_n_sewmini?igsh=dGl3aWFkYzh3bXAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/udara_sandaruwan._?igsh=m3i2n2dwewl4cxhm" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/169RuT74Qf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/udara.sadaruvan.16?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/nimesha-sewmini-983706285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimesha-sewmini-983706285/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nima_n_sewmini?igsh=dGl3aWFkYzh3bXAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nima_n_sewmini?igsh=dGl3aWFkYzh3bXAw" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/169RuT74Qf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/169RuT74Qf/" height="30" width="40" /></a>
 </p>
 
 <hr>
